@@ -1,4 +1,4 @@
-<p>Accept-Language 优先的语言(自然语言)
+Accept-Language 优先的语言(自然语言)
 Authorization Web认证信息
 Expect 期待服务器的待定行为
 From 用户的电子邮箱地址
@@ -9,4 +9,4 @@ Max-Forwards 最大传输逐跳数
 Proxy-Authorization 代理服务器要求客户端的认证消息
 Range 实体的字节范围要求
 Referer 对请求中URI的原始获取方
-User-Agent HTTP客户端程序的信息</p>
+User-Agent HTTP客户端程序的信息
